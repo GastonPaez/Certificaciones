@@ -1,4 +1,4 @@
 # Certificaciones
 Certificados y Diplomas de capacitaciones y cursos.
 
-!(./rsc/Certificado UTN Python inicial.png)
+!(https://github.com/GastonPaez/Certificaciones/blob/main/rsc/Certificado%20UTN%20Python%20inicial.png?raw=true)
